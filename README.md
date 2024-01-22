@@ -1,4 +1,4 @@
-# CS-320-T3689
+# CS-320-T3689: Software Testing Automation & QA
 
 How can I ensure that my code, program, or software is functional and secure?
 Functionality and security of code can be best achieved by attempting to attack or break your code as if you were trying to either compromise its security or cause it to crash. Code must be tested vigorously and aggressively, as code that is favored or insufficently could result in the release of potentially unstable or insecure code into a production environment. Code should be reviewed by peers, statically checked via tools, and functionally tested to uncover these weaknesses. 
